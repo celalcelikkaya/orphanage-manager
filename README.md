@@ -2,10 +2,24 @@
 
 Orphanage Manager is a modern, fast, and centralized web application developed to digitalize orphanage operations, manage donations, track children's activities, and handle day-to-day administration.
 
+**[Download the latest release](https://github.com/celalcelikkaya/orphanage-manager/releases/latest/download/orphanage-manager-main.zip)** &nbsp;·&nbsp; [Release notes and all versions](https://github.com/celalcelikkaya/orphanage-manager/releases/latest)
+
 ## Features
 - **Centralized Data Management:** Secure and fast data storage powered by Google Apps Script and Google Sheets.
 - **Modern User Interface:** Responsive design built for both mobile and desktop, supporting dark mode.
 - **Modular Architecture:** Clean separation of backend logic and frontend components.
+
+## Screenshots
+
+<p>
+  <img src="orphanage-home.webp" width="19%" alt="Home screen with current balance, income and expenses">
+  <img src="orphanage-records.webp" width="19%" alt="Records list with income and expenses">
+  <img src="orphanage-funds.webp" width="19%" alt="Funds screen with transfers and exchange rates">
+  <img src="orphanage-changes.webp" width="19%" alt="Changes screen with reasons, questions and answers">
+  <img src="orphanage-dark.webp" width="19%" alt="Home screen in dark mode">
+</p>
+
+*Screenshots use sample data.*
 
 ---
 
@@ -15,11 +29,15 @@ When you run the initial setup, the system automatically creates default account
 - **Girls Manager:** `Girls` / Password: `girls123`
 - **Boys Manager:** `Boys` / Password: `boys123`
 
+> **Important:** These passwords are only for your first login. Sign in as **Admin**, open the **Users** tab and tap **New password** for every account (the app generates the new password for you) before you share the web app link with anyone.
+
 ---
 
 ## Complete Installation & Deployment Guide
 
-Follow these steps to set up and deploy the application from scratch:
+Follow these steps to set up and deploy the application from scratch.
+
+**Get the files first:** [download the latest release](https://github.com/celalcelikkaya/orphanage-manager/releases/latest/download/orphanage-manager-main.zip) and unzip it. It contains the four files you need: `Code.gs`, `Index.html`, `App1.html` and `App2.html`. (You can also copy them from this repository.)
 
 ### Step 1: Create a Google Apps Script Project
 1. Go to [Google Apps Script](https://script.google.com/).
