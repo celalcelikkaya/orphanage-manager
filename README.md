@@ -2,7 +2,10 @@
 
 Orphanage Manager is a modern, fast, and centralized web application developed to digitalize orphanage operations, manage donations, track children's activities, and handle day-to-day administration.
 
-**[Download the latest release](https://github.com/celalcelikkaya/orphanage-manager/releases/latest/download/orphanage-manager-main.zip)** &nbsp;·&nbsp; [Release notes and all versions](https://github.com/celalcelikkaya/orphanage-manager/releases/latest)
+**[Download the latest release](https://github.com/celalcelikkaya/orphanage-manager/releases/latest/download/orphanage-manager-main.zip)** &nbsp;·&nbsp; [Release notes and all versions](https://github.com/celalcelikkaya/orphanage-manager/releases/latest) &nbsp;·&nbsp;
+[Orphanage Manager Live Demo](https://celalcelikkaya.github.io/demo.html) 
+
+Explore the Live Demo, test the application right away without setting up Google Apps Script? Check out the fully functional (pre-loaded with sample data, nothing is saved).
 
 ## Features
 - **Centralized Data Management:** Secure and fast data storage powered by Google Apps Script and Google Sheets.
