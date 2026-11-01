@@ -14,6 +14,18 @@ Explore the Live Demo, test the application right away without setting up Google
 
 ## Screenshots
 
+**Desktop**
+
+<p>
+  <img src="orphanage-desktop-home.webp" width="49%" alt="Desktop home screen with current balance, income and expenses">
+  <img src="orphanage-desktop-records.webp" width="49%" alt="Desktop records list with income and expenses">
+  <img src="orphanage-desktop-funds.webp" width="49%" alt="Desktop funds screen with transfers and exchange rates">
+  <img src="orphanage-desktop-changes.webp" width="49%" alt="Desktop changes screen with reasons, questions and answers">
+  <img src="orphanage-desktop-dark.webp" width="49%" alt="Desktop home screen in dark mode">
+</p>
+
+**Mobile**
+
 <p>
   <img src="orphanage-home.webp" width="19%" alt="Home screen with current balance, income and expenses">
   <img src="orphanage-records.webp" width="19%" alt="Records list with income and expenses">
