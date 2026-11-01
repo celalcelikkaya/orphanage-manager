@@ -2,7 +2,7 @@
 
 Orphanage Manager is a modern, fast, and centralized web application developed to digitalize orphanage operations, manage donations, track children's activities, and handle day-to-day administration.
 
-**[Download the latest release](https://github.com/celalcelikkaya/orphanage-manager/releases/latest/download/orphanage-manager-main.zip)** &nbsp;·&nbsp; [Release notes and all versions](https://github.com/celalcelikkaya/orphanage-manager/releases/latest) &nbsp;·&nbsp;
+**[Download the latest release](https://github.com/celalcelikkaya/orphanage-manager/releases/latest/download/orphanage-manager-main-v2.zip)** &nbsp;·&nbsp; [Release notes and all versions](https://github.com/celalcelikkaya/orphanage-manager/releases/latest) &nbsp;·&nbsp;
 [Live Demo](https://celalcelikkaya.github.io/demo-orphanage.html) 
 
 Explore the Live Demo, test the application right away without setting up Google Apps Script? Check out the fully functional (pre-loaded with sample data, nothing is saved).
@@ -16,23 +16,31 @@ Explore the Live Demo, test the application right away without setting up Google
 
 **Desktop**
 
-<p>
-  <img src="orphanage-desktop-home.webp" width="49%" alt="Desktop home screen with current balance, income and expenses">
-  <img src="orphanage-desktop-records.webp" width="49%" alt="Desktop records list with income and expenses">
-  <img src="orphanage-desktop-funds.webp" width="49%" alt="Desktop funds screen with transfers and exchange rates">
-  <img src="orphanage-desktop-changes.webp" width="49%" alt="Desktop changes screen with reasons, questions and answers">
-  <img src="orphanage-desktop-dark.webp" width="49%" alt="Desktop home screen in dark mode">
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Home</b><br><sub>Balance, income and expenses</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-desktop-home.webp" width="100%" alt="Desktop home screen with current balance, income and expenses"></td>
+    <td align="center" width="50%"><b>Records</b><br><sub>Income and expense list</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-desktop-records.webp" width="100%" alt="Desktop records list with income and expenses"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Funds</b><br><sub>Transfers and exchange rates</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-desktop-funds.webp" width="100%" alt="Desktop funds screen with transfers and exchange rates"></td>
+    <td align="center"><b>Changes</b><br><sub>Reasons, questions and answers</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-desktop-changes.webp" width="100%" alt="Desktop changes screen with reasons, questions and answers"></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>Dark mode</b><br><sub>Home screen in dark theme</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-desktop-dark.webp" width="50%" alt="Desktop home screen in dark mode"></td>
+  </tr>
+</table>
 
 **Mobile**
 
-<p>
-  <img src="orphanage-home.webp" width="19%" alt="Home screen with current balance, income and expenses">
-  <img src="orphanage-records.webp" width="19%" alt="Records list with income and expenses">
-  <img src="orphanage-funds.webp" width="19%" alt="Funds screen with transfers and exchange rates">
-  <img src="orphanage-changes.webp" width="19%" alt="Changes screen with reasons, questions and answers">
-  <img src="orphanage-dark.webp" width="19%" alt="Home screen in dark mode">
-</p>
+<table>
+  <tr>
+    <td align="center" width="20%"><b>Home</b><br><sub>Balance, income and expenses</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-home.webp" width="100%" alt="Home screen with current balance, income and expenses"></td>
+    <td align="center" width="20%"><b>Records</b><br><sub>Income and expense list</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-records.webp" width="100%" alt="Records list with income and expenses"></td>
+    <td align="center" width="20%"><b>Funds</b><br><sub>Transfers and exchange rates</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-funds.webp" width="100%" alt="Funds screen with transfers and exchange rates"></td>
+    <td align="center" width="20%"><b>Changes</b><br><sub>Reasons, questions and answers</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-changes.webp" width="100%" alt="Changes screen with reasons, questions and answers"></td>
+    <td align="center" width="20%"><b>Dark mode</b><br><sub>Home screen in dark theme</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-dark.webp" width="100%" alt="Home screen in dark mode"></td>
+  </tr>
+</table>
 
 *Screenshots use sample data.*
 
@@ -52,7 +60,7 @@ When you run the initial setup, the system automatically creates default account
 
 Follow these steps to set up and deploy the application from scratch.
 
-**Get the files first:** [download the latest release](https://github.com/celalcelikkaya/orphanage-manager/releases/latest/download/orphanage-manager-main.zip) and unzip it. It contains the four files you need: `Code.gs`, `Index.html`, `App1.html` and `App2.html`. (You can also copy them from this repository.)
+**Get the files first:** [download the latest release](https://github.com/celalcelikkaya/orphanage-manager/releases/latest/download/orphanage-manager-main-v2.zip) and unzip it. It contains the four files you need: `Code.gs`, `Index.html`, `App1.html` and `App2.html`. (You can also copy them from this repository.)
 
 ### Step 1: Create a Google Apps Script Project
 1. Go to [Google Apps Script](https://script.google.com/).
