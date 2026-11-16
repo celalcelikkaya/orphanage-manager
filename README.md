@@ -18,15 +18,15 @@ Explore the Live Demo, test the application right away without setting up Google
 
 <table>
   <tr>
-    <td align="center" width="50%"><b>Home</b><br><sub>Balance, income and expenses</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-desktop-home.webp" width="100%" alt="Desktop home screen with current balance, income and expenses"></td>
-    <td align="center" width="50%"><b>Records</b><br><sub>Income and expense list</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-desktop-records.webp" width="100%" alt="Desktop records list with income and expenses"></td>
+    <td align="center" width="50%"><b>Home</b><br><sub>Balance, income and expenses</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/docs/screenshots/orphanage-desktop-home.webp" width="100%" alt="Desktop home screen with current balance, income and expenses"></td>
+    <td align="center" width="50%"><b>Records</b><br><sub>Income and expense list</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/docs/screenshots/orphanage-desktop-records.webp" width="100%" alt="Desktop records list with income and expenses"></td>
   </tr>
   <tr>
-    <td align="center"><b>Funds</b><br><sub>Transfers and exchange rates</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-desktop-funds.webp" width="100%" alt="Desktop funds screen with transfers and exchange rates"></td>
-    <td align="center"><b>Changes</b><br><sub>Reasons, questions and answers</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-desktop-changes.webp" width="100%" alt="Desktop changes screen with reasons, questions and answers"></td>
+    <td align="center"><b>Funds</b><br><sub>Transfers and exchange rates</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/docs/screenshots/orphanage-desktop-funds.webp" width="100%" alt="Desktop funds screen with transfers and exchange rates"></td>
+    <td align="center"><b>Changes</b><br><sub>Reasons, questions and answers</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/docs/screenshots/orphanage-desktop-changes.webp" width="100%" alt="Desktop changes screen with reasons, questions and answers"></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><b>Dark mode</b><br><sub>Home screen in dark theme</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-desktop-dark.webp" width="50%" alt="Desktop home screen in dark mode"></td>
+    <td align="center" colspan="2"><b>Dark mode</b><br><sub>Home screen in dark theme</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/docs/screenshots/orphanage-desktop-dark.webp" width="50%" alt="Desktop home screen in dark mode"></td>
   </tr>
 </table>
 
@@ -34,11 +34,11 @@ Explore the Live Demo, test the application right away without setting up Google
 
 <table>
   <tr>
-    <td align="center" width="20%"><b>Home</b><br><sub>Balance, income and expenses</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-home.webp" width="100%" alt="Home screen with current balance, income and expenses"></td>
-    <td align="center" width="20%"><b>Records</b><br><sub>Income and expense list</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-records.webp" width="100%" alt="Records list with income and expenses"></td>
-    <td align="center" width="20%"><b>Funds</b><br><sub>Transfers and exchange rates</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-funds.webp" width="100%" alt="Funds screen with transfers and exchange rates"></td>
-    <td align="center" width="20%"><b>Changes</b><br><sub>Reasons, questions and answers</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-changes.webp" width="100%" alt="Changes screen with reasons, questions and answers"></td>
-    <td align="center" width="20%"><b>Dark mode</b><br><sub>Home screen in dark theme</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/orphanage-dark.webp" width="100%" alt="Home screen in dark mode"></td>
+    <td align="center" width="20%"><b>Home</b><br><sub>Balance, income and expenses</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/docs/screenshots/orphanage-home.webp" width="100%" alt="Home screen with current balance, income and expenses"></td>
+    <td align="center" width="20%"><b>Records</b><br><sub>Income and expense list</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/docs/screenshots/orphanage-records.webp" width="100%" alt="Records list with income and expenses"></td>
+    <td align="center" width="20%"><b>Funds</b><br><sub>Transfers and exchange rates</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/docs/screenshots/orphanage-funds.webp" width="100%" alt="Funds screen with transfers and exchange rates"></td>
+    <td align="center" width="20%"><b>Changes</b><br><sub>Reasons, questions and answers</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/docs/screenshots/orphanage-changes.webp" width="100%" alt="Changes screen with reasons, questions and answers"></td>
+    <td align="center" width="20%"><b>Dark mode</b><br><sub>Home screen in dark theme</sub><br><br><img src="https://raw.githubusercontent.com/celalcelikkaya/orphanage-manager/main/docs/screenshots/orphanage-dark.webp" width="100%" alt="Home screen in dark mode"></td>
   </tr>
 </table>
 
@@ -68,15 +68,15 @@ Follow these steps to set up and deploy the application from scratch.
 3. Rename your project to **Orphanage Manager**.
 
 ### Step 2: Add the Backend Code (`Code.gs`)
-1. Replace the default code inside the automatically created `Code.gs` file with the provided backend script (`Code.gs` from this repository).
+1. Replace the default code inside the automatically created `Code.gs` file with the provided backend script ([`app/Code.gs`](app/Code.gs) in this repository).
 2. Save the project (`Ctrl + S` or click the disk icon).
 
 ### Step 3: Add Frontend Files (`Index`, `App1`, `App2`)
 The application dynamically loads frontend parts using `bootApp(i)`. You must create these files in the exact order:
 1. Click the **[+] (Add a file)** button at the top of the file list and select **HTML**.
-2. Name the file **`Index`** (the `.html` extension is added automatically) and paste the contents of `Index.html`. Save it.
-3. Add another HTML file named **`App1`** and paste the contents of `App1.html`. Save it.
-4. Add another HTML file named **`App2`** and paste the contents of `App2.html`. Save it.
+2. Name the file **`Index`** (the `.html` extension is added automatically) and paste the contents of [`app/Index.html`](app/Index.html). Save it.
+3. Add another HTML file named **`App1`** and paste the contents of [`app/App1.html`](app/App1.html). Save it.
+4. Add another HTML file named **`App2`** and paste the contents of [`app/App2.html`](app/App2.html). Save it.
 
 ### Step 4: Run the Initial Setup & Grant Google Drive Permissions
 1. In the top function dropdown menu (next to the Run button), select the **`setup`** function.
